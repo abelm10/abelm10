@@ -37,8 +37,6 @@ class Abel:
 
 - 🎧 Currently building **FakeWave** — audio authenticity analysis from mel spectrograms
 - ⚽ Maintaining **Fixtures** — a live match dashboard that actually stays up to date
-- 🌱 Learning my way deeper into **deep learning + MLOps**
-- 💬 Ask me about **Django, notebooks, or why my Kaggle tab count is a health hazard**
 
 <br clear="right"/>
 
@@ -92,7 +90,6 @@ Everything I broke on the way to understanding the framework:
 </details>
 ---
 <!-- ============ STATS ============ -->
-### 📊 The receipts
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=abelm10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=36BCF7&include_all_commits=true&count_private=true" />
