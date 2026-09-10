@@ -25,11 +25,11 @@
 ```python
 class Abel:
     def __init__(self):
-        self.role     = "MSc Data Science student"
-        self.stack    = ["Python", "Jupyter", "Django", "SQL"]
-        self.building = "FakeWave — catching fake audio with mel spectrograms"
-        self.into     = ["deep learning", "football fixtures", "shipping side projects"]
-        self.motto    = "if it runs on my machine, it ships"
+        self.role    = "MSc Data Science student"
+        self.stack   = ["Python", "Jupyter", "Django", "SQL"]
+        self.building ="FakeWave — catching fake audio with mel spectrograms"
+        self.into    = ["deep learning", "football fixtures", "shipping side projects"]
+        self.motto   = "if it runs on my machine, it ships"
 
     def current_status(self) -> str:
         return "training a model and pretending the loss curve looks fine"
@@ -75,7 +75,7 @@ class Abel:
 | **[Lost-Found-System](https://github.com/abelm10/Lost-Found-System)** | Java + MySQL lost & found record management | `Java` `MySQL` | [visit](https://lost-found-system-two.vercel.app) |
 
 <details>
-<summary>🗄️ <b>The Django learning arc</b> (click to expand)</summary>
+<summary>🗄️ <b>The Django learning arc lol</b> (click to expand)</summary>
 
 <br>
 
@@ -90,9 +90,7 @@ Everything I broke on the way to understanding the framework:
 - [`Stellar-Evolution-webpage`](https://github.com/abelm10/Stellar-Evolution-webpage) — stars, but the astronomical kind
 
 </details>
-
 ---
-
 <!-- ============ STATS ============ -->
 ### 📊 The receipts
 
