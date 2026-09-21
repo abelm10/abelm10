@@ -51,9 +51,7 @@ AttributeError: 'NoneType' object has no attribute 'hours'
   slightly more often than a coin, which I'm choosing to celebrate
 - ⚽ keeping **Fixtures** alive — a live match dashboard for football, F1 and UFC, built entirely because
   I got tired of opening four websites
-- 🧪 in a committed relationship with the "Restart and run all" button
 
----
 
 <!-- ============ TECH ============ -->
 ### 🧰 things I open daily
