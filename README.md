@@ -47,8 +47,7 @@ AttributeError: 'NoneType' object has no attribute 'hours'
 ```
 
 **Currently:**
-- 🎧 building **FakeWave** — turning audio into pictures so a CNN can tell me if a voice is real. it is right 
-  slightly more often than a coin, which I'm choosing to celebrate
+
 - ⚽ keeping **Fixtures** alive — a live match dashboard for football, F1 and UFC, built entirely because
   I got tired of opening four websites
 
